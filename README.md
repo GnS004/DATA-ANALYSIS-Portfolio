@@ -26,7 +26,7 @@
 
 ## 👩‍💻 About Me & This Repository
 
-I'm **Garima Srivastava**, a Data Science & AI student at SRMU with hands-on experience as a **Business Analyst Intern at Lettrblack**. This portfolio is a curated showcase of **end-to-end data analysis projects** designed to demonstrate readiness for:
+This portfolio is a curated showcase of **end-to-end data analysis projects** designed to demonstrate readiness for:
 
 | Role | What I Demonstrate Here |
 |------|------------------------|
@@ -38,7 +38,6 @@ I'm **Garima Srivastava**, a Data Science & AI student at SRMU with hands-on exp
 ```
 Pipeline: Raw Data → Cleaning → EDA → Statistical Analysis → Modeling → Visualization → Insights
 ```
-
 ---
 
 ## 📁 Project Index
@@ -57,7 +56,7 @@ Pipeline: Raw Data → Cleaning → EDA → Statistical Analysis → Modeling �
 ## 🔬 Project Details
 
 ### 🦠 Project 1: COVID-19 × Weather Correlation
-> **`/01_covid_weather_analysis/`** &nbsp;|&nbsp; Research Analytics &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+> **`/01_covid_weather_analysis/`** &nbsp;|&nbsp; Research Analytics 
 
 **Objective:** Investigate statistical relationships between COVID-19 mortality rates and environmental factors across the full pandemic timeline.
 
@@ -76,12 +75,10 @@ Pearson Correlation → Spearman Rank → Time-lagged Analysis → Multivariate 
 - 14-day time-lagged ozone levels show stronger predictive power than same-day readings
 - Coastal humidity negatively correlated with mortality rate (p < 0.05)
 
-**Relevance to Recruiters:** Demonstrates scientific rigor, statistical reasoning, and ability to analyze multi-dimensional public datasets — core skills for Research Analyst & Data Scientist roles.
-
 ---
 
 ### 👥 Project 2: Customer Behavior & Journey Analysis
-> **`/02_customer_behavior/`** &nbsp;|&nbsp; Business Analytics &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+> **`/02_customer_behavior/`** &nbsp;|&nbsp; Business Analytics 
 
 **Objective:** Analyze user interaction patterns from Google Analytics export data to uncover conversion inefficiencies and growth opportunities.
 
@@ -100,12 +97,10 @@ Funnel Analysis → Cohort Retention → RFM Segmentation → Session Clustering
 - Annotated Jupyter notebook with reproducible code
 - Tableau funnel visualization dashboard
 
-**Relevance to Recruiters:** Mirrors real-world Business Analyst and Product Analyst work. Demonstrates ability to translate user behavior data into actionable CX recommendations.
-
 ---
 
 ### 🛒 Project 3: Sales & Revenue Analysis
-> **`/03_sales_revenue/`** &nbsp;|&nbsp; Business Intelligence &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+> **`/03_sales_revenue/`** &nbsp;|&nbsp; Business Intelligence 
 
 **Objective:** Comprehensive multi-dimensional analysis of sales performance across product lines, regions, and time periods.
 
@@ -124,12 +119,10 @@ YoY Growth Analysis → Pareto (80/20) → Moving Averages → Heatmaps → Regi
 - Automated Python report generator
 - Regional performance heatmap
 
-**Relevance to Recruiters:** Directly applicable to BI Analyst, Revenue Analyst, and Sales Analytics roles. Shows dashboard design skills and business context awareness.
-
 ---
 
 ### 📈 Project 4: Time Series Demand Forecasting
-> **`/04_time_series/`** &nbsp;|&nbsp; Data Science / Forecasting &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+> **`/04_time_series/`** &nbsp;|&nbsp; Data Science / Forecasting 
 
 **Objective:** Forecast retail demand using classical time series decomposition and ARIMA modeling with rigorous statistical validation.
 
@@ -148,12 +141,10 @@ ADF Stationarity Test → STL Decomposition → ACF/PACF Analysis → ARIMA(2,1,
 - Diagnostic plots (residuals, ACF, forecasts with confidence bands)
 - Model selection comparison table
 
-**Relevance to Recruiters:** Essential for Supply Chain Analyst, Finance Analyst, and Data Scientist roles requiring forecasting capability.
-
 ---
 
 ### 🧪 Project 5: A/B Testing Statistical Framework
-> **`/05_ab_testing/`** &nbsp;|&nbsp; Research / Product Analytics &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+> **`/05_ab_testing/`** &nbsp;|&nbsp; Research / Product Analytics 
 
 **Objective:** Build a rigorous A/B testing framework with proper statistical controls, power analysis, and business impact quantification.
 
@@ -172,12 +163,10 @@ Power Analysis → Two-proportion Z-test → Chi-square Test → Mann-Whitney U 
 - Statistical decision report template
 - Business impact calculator (revenue × lift × confidence)
 
-**Relevance to Recruiters:** Core skill for Product Analyst, Growth Analyst, Research Analyst, and Business Analyst roles.
-
 ---
 
 ### 🏡 Project 6: Real Estate Market EDA
-> **`/06_real_estate_eda/`** &nbsp;|&nbsp; Data Analysis &nbsp;|&nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+> **`/06_real_estate_eda/`** &nbsp;|&nbsp; Data Analysis 
 
 **Objective:** Deep-dive EDA into housing market data — feature importance, anomaly detection, and geospatial price patterns.
 
@@ -196,8 +185,6 @@ Outlier Detection (IQR + Z-score) → Correlation Matrix → Feature Importance 
 - Cleaned, documented dataset pipeline
 - Feature importance ranking for downstream modeling
 
-**Relevance to Recruiters:** Demonstrates thorough analytical thinking, visual communication, and domain adaptability — applicable across industries.
-
 ---
 
 ## 🛠️ Full Tech Stack
@@ -205,95 +192,16 @@ Outlier Detection (IQR + Z-score) → Correlation Matrix → Feature Importance 
 ```python
 portfolio_stack = {
     "languages":           ["Python 3.10+", "SQL"],
-    "data_wrangling":      ["Pandas", "NumPy", "OpenRefine"],
-    "visualization":       ["Matplotlib", "Seaborn", "Plotly", "Tableau", "Power BI", "IBM Cognos"],
+    "data_wrangling":      ["Pandas", "NumPy", "OpenRefine", Excel],
+    "visualization":       ["Matplotlib", "Seaborn", "Plotly", "Tableau", "Power BI"],
     "statistics":          ["SciPy", "Statsmodels", "Pingouin"],
     "machine_learning":    ["Scikit-learn", "XGBoost", "SHAP"],
     "time_series":         ["Statsmodels (ARIMA)", "Prophet"],
-    "notebooks":           ["Jupyter Notebook", "Google Colab"],
+    "notebooks":           ['VS Code", "Jupyter Notebook", "Google Colab"],
     "etl":                 ["Python ETL Pipelines", "SQL Transformations"],
     "version_control":     ["Git", "GitHub"],
     "communication":       ["Executive Summaries", "Slide Decks", "Dashboard Storytelling"]
 }
-```
-
----
-
-## 📂 Repository Structure
-
-```
-data-analysis-portfolio/
-│
-├── 📁 01_covid_weather_analysis/
-│   ├── 📓 notebook.ipynb              ← Main analysis
-│   ├── 📁 data/
-│   │   ├── covid_mortality.csv
-│   │   └── weather_data.csv
-│   ├── 📁 outputs/                    ← Charts & figures
-│   └── 📄 README.md
-│
-├── 📁 02_customer_behavior/
-│   ├── 📓 notebook.ipynb
-│   ├── 📁 data/
-│   ├── 📊 tableau_dashboard.twbx
-│   └── 📄 README.md
-│
-├── 📁 03_sales_revenue/
-│   ├── 📓 notebook.ipynb
-│   ├── 📊 dashboard.twbx              ← Tableau workbook
-│   ├── 🐍 report_generator.py
-│   └── 📄 README.md
-│
-├── 📁 04_time_series/
-│   ├── 📓 notebook.ipynb
-│   ├── 📁 data/
-│   └── 📄 README.md
-│
-├── 📁 05_ab_testing/
-│   ├── 📓 notebook.ipynb
-│   ├── 🐍 ab_test.py                  ← Reusable module
-│   └── 📄 README.md
-│
-├── 📁 06_real_estate_eda/
-│   ├── 📓 notebook.ipynb
-│   └── 📄 README.md
-│
-├── 📁 utils/
-│   ├── 🐍 eda_helpers.py              ← Reusable EDA functions
-│   ├── 🐍 viz_theme.py                ← Consistent plot styling
-│   └── 🐍 stats_tests.py             ← Statistical test wrappers
-│
-├── 📄 requirements.txt
-└── 📄 README.md                       ← This file
-```
-
----
-
-## 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/GnS004/data-analysis-portfolio.git
-cd data-analysis-portfolio
-
-# 2. Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate          # macOS/Linux
-# venv\Scripts\activate           # Windows
-
-# 3. Install all dependencies
-pip install -r requirements.txt
-
-# 4. Launch Jupyter
-jupyter notebook
-# → Open any project folder and start with notebook.ipynb
-```
-
-**Core requirements:**
-```
-pandas>=2.0  numpy>=1.24  matplotlib>=3.7  seaborn>=0.12
-scipy>=1.10  statsmodels>=0.14  scikit-learn>=1.3
-plotly>=5.14  jupyter>=1.0  openpyxl  xlrd
 ```
 
 ---
