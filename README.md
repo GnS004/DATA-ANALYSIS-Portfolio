@@ -1,5 +1,3 @@
-# 📊 Data Analysis Portfolio
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Data%20Analysis%20Portfolio&fontSize=46&animation=fadeIn&fontAlignY=36&fontColor=ffffff&desc=EDA%20%E2%80%A2%20Statistical%20Modeling%20%E2%80%A2%20Business%20Intelligence%20%E2%80%A2%20Visual%20Storytelling&descAlignY=58&descColor=cccccc&descSize=16)
@@ -16,24 +14,25 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
----
-
-> *"Without data, you're just another person with an opinion. With data, you change the world."*
+*"Without data, you're just another person with an opinion. With data, you change the world."*
 
 </div>
 
----
 
-## 👩‍💻 About Me & This Repository
+## 👩‍💻 About This Repository
 
 This portfolio is a curated showcase of **end-to-end data analysis projects** designed to demonstrate readiness for:
 
+<div align="center">
+    
 | Role | What I Demonstrate Here |
 |------|------------------------|
 | 📊 **Data Analyst** | EDA, SQL, dashboards, statistical inference, visualization |
 | 💼 **Business Analyst** | Funnel analysis, KPI tracking, market research, stakeholder-ready reports |
 | 🔬 **Research Analyst** | Hypothesis testing, correlation analysis, scientific methodology |
 | 📈 **BI / Reporting Analyst** | Tableau dashboards, Cognos, automated ETL reports |
+
+</div>
 
 ```
 Pipeline: Raw Data → Cleaning → EDA → Statistical Analysis → Modeling → Visualization → Insights
@@ -42,6 +41,8 @@ Pipeline: Raw Data → Cleaning → EDA → Statistical Analysis → Modeling �
 
 ## 📁 Project Index
 
+<div align="center"> 
+    
 | # | Project | Type | Tools | Key Result |
 |---|---------|------|-------|------------|
 | [01](#-project-1-covid-19--weather-correlation) | 🦠 COVID-19 × Weather Correlation | Research / EDA | Python, Seaborn, SciPy | r = −0.42 temp-case correlation |
@@ -50,6 +51,8 @@ Pipeline: Raw Data → Cleaning → EDA → Statistical Analysis → Modeling �
 | [04](#-project-4-time-series-demand-forecasting) | 📈 Time Series Forecasting | Data Science | Statsmodels, ARIMA | RMSE = 143 on 30-day forecast |
 | [05](#-project-5-ab-testing-framework) | 🧪 A/B Testing Framework | Research / Stats | SciPy, Python | +8.3% conversion lift, p < 0.01 |
 | [06](#-project-6-real-estate-market-eda) | 🏡 Real Estate Market EDA | Data Analysis | Scikit-learn, Plotly | Location = 41% of price variance |
+
+</div>
 
 ---
 
@@ -206,8 +209,6 @@ portfolio_stack = {
 
 ---
 
-## 📬 Connect With Me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garima-srivastava-32431a21a/)
@@ -216,12 +217,6 @@ portfolio_stack = {
 [![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/GarimaSrivastava)
 
 **📍 Lucknow, Uttar Pradesh, India**
-
-</div>
-
----
-
-<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&fontColor=ffffff)
 
